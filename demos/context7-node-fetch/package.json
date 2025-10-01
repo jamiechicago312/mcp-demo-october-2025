@@ -1,0 +1,11 @@
+{
+  "name": "context7-demo-node-fetch",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
